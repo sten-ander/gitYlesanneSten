@@ -1,5 +1,6 @@
 Küsimus 1. Programmeerimine:
 Kuidas saad ekraanile teksti?
+print()
 
 Küsimus 2.  Programmeerimine:
 Milliseid loope on pythonis?
