@@ -1,0 +1,14 @@
+Küsimus 1. Programmeerimine:
+Kuidas saad ekraanile teksti?
+
+Küsimus 2.  Programmeerimine:
+Milliseid loope on pythonis?
+
+Küsimus 3. Exceli funktsioon:
+Kuidas saad lahtrist A3 paremalt teksti?
+
+Küsimus 4. Exceli funktsioon:
+Kuidas saad tänase kuupäeva?
+
+Küsimus 5. Excel:
+Mis on massiiv?
