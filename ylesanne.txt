@@ -8,6 +8,7 @@ For , While
 
 Küsimus 3. Exceli funktsioon:
 Kuidas saad lahtrist A3 paremalt teksti?
+=RIGHT(A3)
 
 Küsimus 4. Exceli funktsioon:
 Kuidas saad tänase kuupäeva?
