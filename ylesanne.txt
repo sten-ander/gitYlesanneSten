@@ -16,3 +16,8 @@ Kuidas saad tänase kuupäeva?
 
 Küsimus 5. Excel:
 Mis on massiiv?
+Massiiv (ehk arrwya) on andmete kogum,
+mis asub mitmes lahtris korraga,
+mitte ainult ühes lahtris.
+Massiive kasutatakse sageli valemites,
+et teha arvutusi mitme lahtriga korraga.
