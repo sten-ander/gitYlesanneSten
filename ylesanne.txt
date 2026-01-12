@@ -4,6 +4,7 @@ print()
 
 Küsimus 2.  Programmeerimine:
 Milliseid loope on pythonis?
+For , While
 
 Küsimus 3. Exceli funktsioon:
 Kuidas saad lahtrist A3 paremalt teksti?
